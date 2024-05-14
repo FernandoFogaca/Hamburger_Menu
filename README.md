@@ -3,4 +3,4 @@
 - HTML
 - CSS
 - TAILWINDCSS
-- JS
+- Node JS
